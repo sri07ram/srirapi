@@ -5,4 +5,6 @@ class Mail(models.Model):
     name=models.CharField(max_length=100)
     mobile=models.CharField(max_length=12)
     place=models.CharField(max_length=100)
+    #models la modify pannaum
+
 
